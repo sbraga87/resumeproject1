@@ -1,0 +1,7 @@
+program Sb begin x := 10 end 
+program Sb1 begin x := 10 + 10 end 
+program Sb2 begin if ( x < 10 ) then y := 5 else a := - b * 7 end 
+program Sb3 begin x1 := 10 ; write ( y ) end 
+program Sb4 begin while ( x < 10 ) do y := 5 end 
+program Sb5 begin read ( x , y ) end 
+program Sb6 begin begin x := 10 end end 
