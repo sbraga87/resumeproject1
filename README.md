@@ -1,1 +1,1 @@
-Made for a college class, this program written in python will validate whether a statement is valid in a made up programming language. If it is not valid it will display an error message as not why it is not valid.
+Made for a college class, this program written in python will validate whether a statement is valid in a made up programming language. If it is not valid it will display an error message as to why it is not valid.
